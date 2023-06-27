@@ -1,0 +1,2 @@
+[28-Sep-2022 13:52:44 UTC] PHP Warning:  require(/home/by319xmqxi4v/public_html/admin/../vendor/autoload.php): failed to open stream: No such file or directory in /home/by319xmqxi4v/public_html/admin/index.php on line 34
+[28-Sep-2022 13:52:44 UTC] PHP Fatal error:  require(): Failed opening required '/home/by319xmqxi4v/public_html/admin/../vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/by319xmqxi4v/public_html/admin/index.php on line 34
