@@ -28,7 +28,7 @@
             </li> -->
 
             <li class="nav-item">
-                <a class="nav-link" href="{{ route('promocode') }}" data-toggle="collapse" data-target="#collapsePages" aria-expanded="true" aria-controls="collapsePages">
+                <a class="nav-link" href="#" data-toggle="collapse" data-target="#collapsePages" aria-expanded="true" aria-controls="collapsePages">
                     <i class="fas fa-fw fa-folder"></i>
                     <span>Promocode</span>
                 </a>
@@ -44,7 +44,7 @@
             </li>
 
             <li class="nav-item">
-                <a class="nav-link" href="{{route('message')}}" data-toggle="collapse" data-target="#collapseMessagePages" aria-expanded="true" aria-controls="collapseMessagePages">
+                <a class="nav-link" href="#" data-toggle="collapse" data-target="#collapseMessagePages" aria-expanded="true" aria-controls="collapseMessagePages">
                     <i class="fas fa-fw fa-folder"></i>
                     <span>Message</span>
                 </a>
@@ -57,7 +57,7 @@
             </li>
 
             <li class="nav-item">
-                <a class="nav-link" href="{{route('users.list')}}" data-toggle="collapse" data-target="#collapseUsersPages" aria-expanded="true" aria-controls="collapseUsersPages">
+                <a class="nav-link" href="#" data-toggle="collapse" data-target="#collapseUsersPages" aria-expanded="true" aria-controls="collapseUsersPages">
                     <i class="fas fa-fw fa-folder"></i>
                     <span>Users List</span>
                 </a>
@@ -73,7 +73,7 @@
             </li>
 
             <li class="nav-item">
-                <a class="nav-link" href="{{route('faq.list')}}" data-toggle="collapse" data-target="#collapseFaqPages" aria-expanded="true" aria-controls="collapseFaqPages">
+                <a class="nav-link" href="#" data-toggle="collapse" data-target="#collapseFaqPages" aria-expanded="true" aria-controls="collapseFaqPages">
                     <i class="fas fa-fw fa-folder"></i>
                     <span>FAQ List</span>
                 </a>
